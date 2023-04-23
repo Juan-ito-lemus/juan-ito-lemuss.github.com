@@ -1,0 +1,33 @@
+body{
+    font-family:'Segoe UI', Tahoma, Verdana, sans-serif;
+    margin: 0;
+}
+header{
+    background-color:#3949ab;
+    text-align: center;
+    padding: 16px;
+}
+header p, h1{
+    display: inline-block;
+    width: 400px;
+    color:white;
+}
+.index{
+    background-color:rgb(195, 91, 204);
+    color:black;
+    text-align:center;
+}
+.section{
+    width: 960px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.section dt{
+    font-size: 22px;
+    text-transform: uppercase;
+    margin-bottom: 12px;
+    margin-top: 12px;
+}
+img{
+    width: 300px;
+}
